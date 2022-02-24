@@ -1,0 +1,1 @@
+En este proyecto vamos a contruir una sitio web de recetas con links hacia las distintas recetas. Vamos a afianzar nestros conocimients sobre html
